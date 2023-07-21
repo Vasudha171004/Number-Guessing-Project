@@ -9,7 +9,7 @@
                                       22001A0517
                           (JNTUA COLLEGE OF ENGINEERING,ANANTAPUR)
                                 Under the guidance of
-                                   P CHENNA REDDY
+                                   P.CHENNA REDDY
 #NUMBER GUESSING
 In this project I had came through the concept of functions. In which a number is randomly selected by the computer in which we have to guess the number by the given instructions and rules. If we guess the number then we are the winner of the game in which we get some chances and points for playing this game.
 
