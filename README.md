@@ -16,3 +16,4 @@ In this project I had came through the concept of functions. In which a number i
 
 CONCLUSION:
      In this project I have designed the game for entertainment and by following the rules we can play this game.This project is done using python programming language.
+     python
